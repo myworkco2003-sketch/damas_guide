@@ -2653,11 +2653,10 @@ export default function MapViewer({
         </div>
       </header>
 
-      <button
-        type="button"
-        disabled
-        aria-label="الرجوع — غير متاح حالياً"
-        title="الرجوع — غير متاح حالياً"
+      <a
+        href="https://dec.damascus.gov.sy/portal"
+        aria-label="الرئيسية"
+        title="بوابة محافظة دمشق"
         className="map-header-back"
       >
         <ArrowLeft className="w-5 h-5" />
