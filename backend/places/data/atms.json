@@ -1,0 +1,26 @@
+[
+  {
+    "name": "صراف آلي - المصرف الإسلامي",
+    "map_url": "https://maps.app.goo.gl/wkq7U9yxzb9c4HWL6?g_st=aw",
+    "coordinates": [33.500544, 36.2743484],
+    "sector": "private"
+  },
+  {
+    "name": "صراف آلي - بنك البركة",
+    "map_url": "https://maps.app.goo.gl/WrMQTK5zr4uZsHXX8?g_st=aw",
+    "coordinates": [33.5190055, 36.2719631],
+    "sector": "private"
+  },
+  {
+    "name": "صراف المصرف العقاري السوري",
+    "map_url": "https://maps.app.goo.gl/KVDnu5tDmVTnjvTw6?g_st=aw",
+    "coordinates": [33.5221564, 36.294782],
+    "sector": "Public"
+  },
+  {
+    "name": "صراف آلي - بنك سوريا والخليج",
+    "map_url": "https://maps.app.goo.gl/YQedSh14yDC5TSN9A?g_st=aw",
+    "coordinates": [33.4482727, 36.2658262],
+    "sector": "private"
+  }
+]

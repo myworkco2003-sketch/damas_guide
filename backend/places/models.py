@@ -44,8 +44,12 @@ class AdminArea(models.Model):
         super().save(*args, **kwargs)
 
     def __str__(self):
-        level_label = "حي" if self.level == 10 else "بلدية" if self.level == 9 else "محافظة"
+        level_label = self.level_name
         return f"{level_label}: {self.name_ar} ({self.code})"
+
+    @property
+    def level_name(self):
+        return {8: "قطاع", 9: "بلدية", 10: "حي"}.get(self.level, "محافظة")
 
 #! جدول الشوارع (Street) مرتبط بالحي الإداري (AdminArea) عبر علاقة ForeignKey، ويحتوي على الحقول التالية:
 #!Done

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "مدرسة زين العابدين التونسي",
+    "map_url": "https://maps.app.goo.gl/5d1YdnKLKdCx153A6?g_st=aw",
+    "coordinates": [33.4875584, 36.2951159],
+    "sector": "Public",
+    "stage": "ثانوي"
+  },
+  {
+    "name": "مدرسة ابن زيدون",
+    "map_url": "https://maps.app.goo.gl/AxBxweoaXeRrVw4b8?g_st=aw",
+    "coordinates": [33.4992537, 36.2962089],
+    "sector": "Public",
+    "stage": "إعدادي"
+  },
+  {
+    "name": "مدرسة حسان بن ثابت",
+    "map_url": "https://maps.app.goo.gl/PBcpvdJenFnoThXF6?g_st=aw",
+    "coordinates": [33.4935349, 36.3000649],
+    "sector": "Public",
+    "stage": "إعدادي"
+  },
+  {
+    "name": "ثانوية عباد الرحمن الشرعية للبنين",
+    "map_url": "https://maps.app.goo.gl/cR6EozPUdZQpevMQA?g_st=aw",
+    "coordinates": [33.5016044, 36.2871615],
+    "sector": "Public",
+    "stage": "إعدادي وثانوي"
+  },
+  {
+    "name": "مدرسة الحكمة",
+    "map_url": "https://maps.app.goo.gl/co7byMwDVYkyuZfJ9?g_st=aw",
+    "coordinates": [33.5100438, 36.2976329],
+    "sector": "Public",
+    "stage": "إعدادي وثانوي"
+  },
+  {
+    "name": "مدرسة عبد الرحمن الكواكبي",
+    "map_url": "https://maps.app.goo.gl/1aNJ688jWhKzwUtKA?g_st=aw",
+    "coordinates": [33.4881844, 36.2922479],
+    "sector": "Public",
+    "stage": "ثانوي"
+  }
+]

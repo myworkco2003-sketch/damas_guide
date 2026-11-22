@@ -1,0 +1,33 @@
+[
+  {
+    "name": "جامع الرازي",
+    "map_url": "https://maps.app.goo.gl/Pu3urZopvc67XK4b7?g_st=aw",
+    "coordinates": [33.5094649, 36.2881989]
+  },
+  {
+    "name": "جامع الحسن",
+    "map_url": "https://maps.app.goo.gl/AivpLwL4H9yijL7g9?g_st=aw",
+    "coordinates": [33.4927718, 36.2929922]
+  },
+  {
+    "name": "جامع كفرسوسة الكبير",
+    "map_url": "https://maps.app.goo.gl/77nU4gPEqjdreUku9?g_st=aw",
+    "coordinates": [33.4974006, 36.2781858]
+  },
+  {
+    "name": "جامع الدقاق",
+    "map_url": "https://maps.app.goo.gl/gcx94PKFygmNPMiQA?g_st=aw",
+    "coordinates": [33.486822, 36.2948557]
+  },
+  {
+    "name": "جامع الحلبوني",
+    "map_url": "https://maps.app.goo.gl/4wLgt8W2pe5nAgLC6?g_st=aw",
+    "coordinates": [33.5100907, 36.2938874]
+  },
+  {
+    "name": "جامع علي بن أبي طالب",
+    "name_en": "Ali bin Abi Talib Mosque",
+    "map_url": "https://maps.app.goo.gl/4htoF2UpreyjGjhF6?g_st=aw",
+    "coordinates": [33.4879186, 36.284768]
+  }
+]

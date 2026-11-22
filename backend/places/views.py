@@ -64,7 +64,7 @@ def list_admin_areas_geojson(request):
                 "name_en": area.name_en,
                 "code": area.code,
                 "level": area.level,
-                "level_name": "بلدية" if area.level == 9 else "حي",
+                "level_name": area.level_name,
                 "parent_id": area.parent_id,
                 "parent_name_ar": area.parent.name_ar if area.parent else "",
             },
@@ -84,6 +84,15 @@ def list_place_sectors(request):
     subcategory = request.GET.get('subcategory', '').strip()
     category = request.GET.get('category', '').strip()
     if not subcategory:
+        return JsonResponse({"results": []})
+
+    categories_without_sectors = {
+        'public-facilities', 'communications', 'economy', 'religious',
+        'culture', 'damascus-governorate', 'government',
+    }
+    if category in categories_without_sectors or (
+        category == 'healthcare' and subcategory in {'blood-banks', 'pharmacies'}
+    ):
         return JsonResponse({"results": []})
 
     queryset = Place.objects.filter(is_visible=True, sub_category__slug=subcategory)

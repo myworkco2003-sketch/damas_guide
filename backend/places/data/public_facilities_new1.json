@@ -1,0 +1,22 @@
+[
+  {"name": "حديقة السبكي", "subcategory": "parks", "latitude": 33.519051, "longitude": 36.2884654},
+  {"name": "حديقة الصوفانية", "subcategory": "parks", "latitude": 33.5145077, "longitude": 36.3174687},
+  {"name": "ساحة المرجة", "subcategory": "squares", "latitude": 33.5127867, "longitude": 36.2980744},
+  {"name": "مركز انطلاق المنطقة الجنوبية", "subcategory": "interchange-centers", "latitude": 33.4967558, "longitude": 36.3025635},
+  {"name": "مسجد التكية السليمانية", "subcategory": "historic-landmarks", "latitude": 33.5122461, "longitude": 36.2913984},
+  {"name": "سوق مدحت باشا", "subcategory": "historic-landmarks", "latitude": 33.508726, "longitude": 36.305936},
+  {"name": "قصر العظم", "subcategory": "historic-landmarks", "latitude": 33.5102637, "longitude": 36.3068829},
+  {"name": "الجامع الأموي", "subcategory": "historic-landmarks", "latitude": 33.511713, "longitude": 36.3066642},
+  {"name": "سمسم", "subcategory": "entertainment", "latitude": 33.5252508, "longitude": 36.2278709},
+  {"name": "مجمع سبوت ترفيهي", "subcategory": "entertainment", "latitude": 33.4844241, "longitude": 36.3364508},
+  {"name": "ملاهي سندباد", "subcategory": "entertainment", "latitude": 33.5032622, "longitude": 36.2538539},
+  {"name": "ملعب تشرين", "subcategory": "stadiums", "latitude": 33.5054627, "longitude": 36.2892191},
+  {"name": "ملعب الفيحاء", "subcategory": "stadiums", "latitude": 33.5282079, "longitude": 36.2983021},
+  {"name": "أكاديمية نادي الوحدة", "subcategory": "stadiums", "latitude": 33.5309854, "longitude": 36.3151514},
+  {"name": "المؤسسة العامة للسينما", "subcategory": "cinemas", "latitude": 33.5217031, "longitude": 36.2881174},
+  {"name": "سينما الزهراء", "subcategory": "cinemas", "latitude": 33.5173722, "longitude": 36.2939519},
+  {"name": "سينما الكندي", "subcategory": "cinemas", "latitude": 33.5144173, "longitude": 36.2944033},
+  {"name": "المعهد العالي للفنون المسرحية", "subcategory": "theaters", "latitude": 33.5125144, "longitude": 36.279599},
+  {"name": "مسرح القباني", "subcategory": "theaters", "latitude": 33.5189381, "longitude": 36.2960956},
+  {"name": "مسرح الحمراء", "subcategory": "theaters", "latitude": 33.5172783, "longitude": 36.293807}
+]

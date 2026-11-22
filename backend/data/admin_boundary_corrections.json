@@ -63,7 +63,7 @@
     },
     {
       "id": 353,
-      "name_ar": "  القابون",
+      "name_ar": "القابون",
       "level": 9,
       "parent_id": null,
       "before_sha256": "eee1a13d9afbcae4df1184e5fa5828db52fcf9430d65c2dd39ccf92ebfb4d033",
@@ -81,7 +81,7 @@
     },
     {
       "id": 354,
-      "name_ar": "  القدم",
+      "name_ar": "القدم",
       "level": 9,
       "parent_id": null,
       "before_sha256": "71f1bd2fb99b0cb47805fb7f4db5c3619e61adad5d9d034d1dead54a2263005f",
@@ -102,7 +102,7 @@
     },
     {
       "id": 355,
-      "name_ar": "  القنوات",
+      "name_ar": "القنوات",
       "level": 9,
       "parent_id": null,
       "before_sha256": "4889c06181bf0e756fb568c3adb1bcfc34e2490ec40b8bf1cbc09a6a044a5668",
@@ -126,7 +126,7 @@
     },
     {
       "id": 356,
-      "name_ar": "  المزة",
+      "name_ar": "المزة",
       "level": 9,
       "parent_id": null,
       "before_sha256": "75656a0fc1ee05aff70a378807d4c2e669c3824ec996a35f8c19da3da5847796",
@@ -148,7 +148,7 @@
     },
     {
       "id": 357,
-      "name_ar": "  المهاجرين",
+      "name_ar": "المهاجرين",
       "level": 9,
       "parent_id": null,
       "before_sha256": "9f28990f3da9979d89629dd08cc109dd9be579de328397f5e6a8b5841f4dfb6c",
@@ -174,7 +174,7 @@
     },
     {
       "id": 358,
-      "name_ar": "  الميدان",
+      "name_ar": "الميدان",
       "level": 9,
       "parent_id": null,
       "before_sha256": "7092b61d506294ca8674e1e607b2620b02a30b950ed02491cfa0a85746f7a7ac",
